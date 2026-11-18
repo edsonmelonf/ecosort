@@ -8,10 +8,10 @@ Você envia a **foto de um resíduo** e faz uma **pergunta em português** ("pos
 
 | Nome completo | Responsabilidade |
 |---|---|
-| Edson de Melo Neto Filho | [preencher] |
-| Renato Berto dos Santos | [preencher] |
-| Nathan Silva Melo | [preencher] |
-| Matheus Mendes | [preencher] |
+| Edson de Melo Neto Filho | PLN (intenções e entidades) |
+| Renato Berto dos Santos | Artigo (Overleaf) e documentação |
+| Nathan Silva Melo | Visão computacional / CNN |
+| Matheus Mendes | Agente de decisão e interface |
 
 Artigo (Overleaf): [colar o link aqui]
 
