@@ -1,0 +1,80 @@
+[
+  {
+    "arquivo": "cardboard/cardboard10.jpg",
+    "classe_real": "cardboard",
+    "classe_prev": "cardboard",
+    "pergunta": "isso é metal ou plástico?",
+    "intencao_real": "identificar_material",
+    "intencao_prev": "identificar_material",
+    "acao": "responder",
+    "correta": true,
+    "respondeu": true,
+    "resposta": "Parece ser papelão. É reciclável (lixeira azul). Papelão engordurado ou molhado perde as fibras úteis e contamina o lote.",
+    "resposta_esperada": "Parece ser papelão. É reciclável (lixeira azul). Papelão engordurado ou molhado perde as fibras úteis e contamina o lote."
+  },
+  {
+    "arquivo": "glass/glass107.jpg",
+    "classe_real": "glass",
+    "classe_prev": "glass",
+    "pergunta": "isso é lixo reciclavel?",
+    "intencao_real": "pode_reciclar",
+    "intencao_prev": "pode_reciclar",
+    "acao": "responder",
+    "correta": true,
+    "respondeu": true,
+    "resposta": "Sim, vidro é reciclável. Espelhos, vidros de janela, cerâmica e louça costumam NÃO ser aceitos junto com embalagens de vidro.",
+    "resposta_esperada": "Sim, vidro é reciclável. Espelhos, vidros de janela, cerâmica e louça costumam NÃO ser aceitos junto com embalagens de vidro."
+  },
+  {
+    "arquivo": "metal/metal11.jpg",
+    "classe_real": "metal",
+    "classe_prev": "metal",
+    "pergunta": "diz qual material é esse objeto",
+    "intencao_real": "identificar_material",
+    "intencao_prev": "identificar_material",
+    "acao": "responder",
+    "correta": true,
+    "respondeu": true,
+    "resposta": "Parece ser metal. É reciclável (lixeira amarela). Latas de alumínio e aço são muito valorizadas pelas cooperativas.",
+    "resposta_esperada": "Parece ser metal. É reciclável (lixeira amarela). Latas de alumínio e aço são muito valorizadas pelas cooperativas."
+  },
+  {
+    "arquivo": "paper/paper101.jpg",
+    "classe_real": "paper",
+    "classe_prev": "paper",
+    "pergunta": "que tipo de resíduo é esse da foto",
+    "intencao_real": "identificar_material",
+    "intencao_prev": "identificar_material",
+    "acao": "responder",
+    "correta": true,
+    "respondeu": true,
+    "resposta": "Parece ser papel. É reciclável (lixeira azul). Papel higiênico, guardanapo usado, papel engordurado, fita adesiva, papel carbono e fotografias não são recicláveis.",
+    "resposta_esperada": "Parece ser papel. É reciclável (lixeira azul). Papel higiênico, guardanapo usado, papel engordurado, fita adesiva, papel carbono e fotografias não são recicláveis."
+  },
+  {
+    "arquivo": "cardboard/cardboard102.jpg",
+    "classe_real": "cardboard",
+    "classe_prev": "cardboard",
+    "pergunta": "como preparo isso pra coleta",
+    "intencao_real": "preparar_antes",
+    "intencao_prev": "como_descartar",
+    "acao": "responder",
+    "correta": false,
+    "respondeu": true,
+    "resposta": "Papelão vai na lixeira azul. Antes: desmonte e achate a caixa para ocupar menos espaço; mantenha o papelão seco e sem restos de comida; remova fitas adesivas grandes, se possível. Leve ao ponto de entrega voluntária (ecoponto), a uma cooperativa de catadores ou use a coleta seletiva da sua rua. Consulte o órgão municipal de limpeza urbana para confirmar dias e locais na sua cidade.",
+    "resposta_esperada": "Antes de descartar: desmonte e achate a caixa para ocupar menos espaço; mantenha o papelão seco e sem restos de comida; remova fitas adesivas grandes, se possível."
+  },
+  {
+    "arquivo": "cardboard/cardboard128.jpg",
+    "classe_real": "cardboard",
+    "classe_prev": "paper",
+    "pergunta": "posso levar isso em algum lugar específico?",
+    "intencao_real": "onde_descartar",
+    "intencao_prev": "onde_descartar",
+    "acao": "responder",
+    "correta": false,
+    "respondeu": true,
+    "resposta": "Leve ao ponto de entrega voluntária (ecoponto), a uma cooperativa de catadores ou use a coleta seletiva da sua rua. Consulte o órgão municipal de limpeza urbana para confirmar dias e locais na sua cidade.",
+    "resposta_esperada": "Leve ao ponto de entrega voluntária (ecoponto), a uma cooperativa de catadores ou use a coleta seletiva da sua rua. Consulte o órgão municipal de limpeza urbana para confirmar dias e locais na sua cidade."
+  }
+]

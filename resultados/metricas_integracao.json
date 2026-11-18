@@ -1,0 +1,15 @@
+{
+  "n": 380,
+  "fluxo_correto_sobre_total": 0.7473684210526316,
+  "taxa_pedido_nova_foto": 0.08947368421052626,
+  "fluxo_correto_sobre_respondidas": 0.8208092485549133,
+  "sem_agente_visao_e_intencao_corretas": 0.8,
+  "sem_agente_sobre_respondidas": 0.8208092485549133,
+  "acoes": {
+    "responder": 337,
+    "pedir_nova_foto": 34,
+    "confirmar_material": 9
+  },
+  "resposta_igual_a_esperada_sobre_respondidas": 0.8092485549132948,
+  "acuracia_intencao_teste": 0.9375
+}

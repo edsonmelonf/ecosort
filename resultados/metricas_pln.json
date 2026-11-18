@@ -1,0 +1,92 @@
+{
+  "n_treino": 120,
+  "n_teste": 48,
+  "comparacao": {
+    "LogReg (escolhido)": {
+      "cv5_acc_media": 0.8833333333333334,
+      "cv5_acc_desvio": 0.048591265790377494,
+      "teste_acc": 0.9375,
+      "teste_f1_macro": 0.9373366013071897
+    },
+    "LinearSVC": {
+      "cv5_acc_media": 0.8583333333333334,
+      "cv5_acc_desvio": 0.05651941652604392,
+      "teste_acc": 0.9375,
+      "teste_f1_macro": 0.9373366013071897
+    },
+    "NaiveBayes": {
+      "cv5_acc_media": 0.8416666666666666,
+      "cv5_acc_desvio": 0.06666666666666671,
+      "teste_acc": 0.8541666666666666,
+      "teste_f1_macro": 0.8514263757684809
+    }
+  },
+  "relatorio_teste": {
+    "como_descartar": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1-score": 0.875,
+      "support": 8.0
+    },
+    "pode_reciclar": {
+      "precision": 0.8888888888888888,
+      "recall": 1.0,
+      "f1-score": 0.9411764705882353,
+      "support": 8.0
+    },
+    "cor_lixeira": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "preparar_antes": {
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1-score": 0.9333333333333333,
+      "support": 8.0
+    },
+    "onde_descartar": {
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1-score": 0.9333333333333333,
+      "support": 8.0
+    },
+    "identificar_material": {
+      "precision": 0.8888888888888888,
+      "recall": 1.0,
+      "f1-score": 0.9411764705882353,
+      "support": 8.0
+    },
+    "accuracy": 0.9375,
+    "macro avg": {
+      "precision": 0.9421296296296298,
+      "recall": 0.9375,
+      "f1-score": 0.9373366013071897,
+      "support": 48.0
+    },
+    "weighted avg": {
+      "precision": 0.9421296296296298,
+      "recall": 0.9375,
+      "f1-score": 0.9373366013071897,
+      "support": 48.0
+    }
+  },
+  "erros_teste": [
+    {
+      "frase": "de que maneira eu me desfaço desse item?",
+      "real": "como_descartar",
+      "previsto": "identificar_material"
+    },
+    {
+      "frase": "como preparo isso pra coleta",
+      "real": "preparar_antes",
+      "previsto": "como_descartar"
+    },
+    {
+      "frase": "em que local eu deixo isso pra reciclar",
+      "real": "onde_descartar",
+      "previsto": "pode_reciclar"
+    }
+  ]
+}
