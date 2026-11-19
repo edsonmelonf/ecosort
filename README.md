@@ -6,6 +6,10 @@ Projeto Integrador de Inteligência Artificial — AFYA | UNIMA Maceió (Prof. I
 
 Você envia a **foto de um resíduo** e faz uma **pergunta em português** ("posso reciclar isso?", "qual a cor da lixeira?", "preciso lavar antes?"). O sistema identifica o material, entende a pergunta e responde com a orientação de descarte, explicando como chegou à resposta.
 
+## Problema
+
+A coleta seletiva depende de que as pessoas separem corretamente os resíduos em casa. Na prática, dúvidas frequentes ("isto é reciclável?", "preciso lavar?", "em qual lixeira vai?") levam ao descarte incorreto e à contaminação de materiais que poderiam ser reaproveitados. O EcoSort busca reduzir essa dificuldade com um assistente que combina o que é visto na foto com o que o usuário pergunta.
+
 ## Integrantes e responsabilidades
 
 | Nome completo | Responsabilidade |
@@ -13,7 +17,7 @@ Você envia a **foto de um resíduo** e faz uma **pergunta em português** ("pos
 | Edson de Melo Neto Filho | PLN (intenções e entidades) |
 | Renato Berto dos Santos | Artigo (Overleaf) e documentação |
 | Nathan Silva Melo | Visão computacional / CNN |
-| Matheus Mendes | Agente de decisão e interface |
+| Matheus Mendes Santos | Agente de decisão e interface |
 
 ## Arquitetura
 
