@@ -2,7 +2,7 @@
 
 Projeto Integrador de Inteligência Artificial — AFYA | UNIMA Maceió (Prof. Icaro Ferreira).
 
-**Artigo (Overleaf):** [LINK_DO_OVERLEAF]
+**Artigo (Overleaf):** https://www.overleaf.com/project/6afdd8bef53a4f5741c5da8f/share#f6fd92c4b6065be5c6ece6009f33f5d18d2c47640aa80475
 
 Você envia a **foto de um resíduo** e faz uma **pergunta em português** ("posso reciclar isso?", "qual a cor da lixeira?", "preciso lavar antes?"). O sistema identifica o material, entende a pergunta e responde com a orientação de descarte, explicando como chegou à resposta.
 
