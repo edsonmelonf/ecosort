@@ -13,7 +13,7 @@ Você envia a **foto de um resíduo** e faz uma **pergunta em português** ("pos
 | Nathan Silva Melo | Visão computacional / CNN |
 | Matheus Mendes | Agente de decisão e interface |
 
-Artigo (Overleaf): [colar o link aqui]
+Artigo (Overleaf): 
 
 ## Arquitetura
 
