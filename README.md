@@ -17,7 +17,7 @@ A coleta seletiva depende de que as pessoas separem corretamente os resíduos em
 | Edson de Melo Neto Filho | PLN (intenções e entidades) |
 | Renato Berto dos Santos | Artigo (Overleaf) e documentação |
 | Nathan Silva Melo | Visão computacional / CNN |
-| Matheus Mendes Santos | Agente de decisão e interface |
+| Matheus Mendes | Agente de decisão e interface |
 
 ## Arquitetura
 
